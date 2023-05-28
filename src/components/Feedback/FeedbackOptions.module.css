@@ -1,0 +1,12 @@
+.button{
+    background-color: #769656;
+    border: 1px solid white;
+    border-radius: 5px;
+    width: 80px;
+    height: 40px;
+}
+.buttonList{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}

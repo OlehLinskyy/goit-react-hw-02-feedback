@@ -1,0 +1,25 @@
+.title{
+    text-align: center;
+    color: white;
+    margin: 10px 0;
+    font-weight: 600;
+    font-size: 23px;
+    line-height: 1.12;
+}
+.valueList{
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.goodValue{
+    color: #769656;
+}
+.neutralValue{
+    color: #FFC83D;
+}
+.badValue{
+    color: red;
+}
+.totalValue{
+    color: #769656;
+}
