@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Feedback from './Feedback/FeedbackOptions';
 import Statistics from './Statistics/Statistics';
 import Section from './Section/Section';
-class App extends Component {
+export class App extends Component {
   constructor() {
     super();
     this.state = {
@@ -56,4 +56,3 @@ class App extends Component {
     );
   }
 }
-export default App;
